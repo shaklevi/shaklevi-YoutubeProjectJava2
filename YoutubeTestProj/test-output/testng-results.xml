@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-30T20:18:19 IST" name="Default suite" finished-at="2022-11-30T20:19:01 IST" duration-ms="41974">
+    <groups>
+    </groups>
+    <test started-at="2022-11-30T20:18:19 IST" name="Default test" finished-at="2022-11-30T20:19:01 IST" duration-ms="41974">
+      <class name="tests.SearchAndPlayVideoItemTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SearchAndPlayVideoItemTest@c6e0f32]" started-at="2022-11-30T20:18:19 IST" name="setup" finished-at="2022-11-30T20:18:28 IST" duration-ms="8519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc_01_searchAndPlayVideoContent()[pri:0, instance:tests.SearchAndPlayVideoItemTest@c6e0f32]" started-at="2022-11-30T20:18:28 IST" name="tc_01_searchAndPlayVideoContent" description="Search for movie and play it." finished-at="2022-11-30T20:19:01 IST" duration-ms="33119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01_searchAndPlayVideoContent -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchAndPlayVideoItemTest@c6e0f32]" started-at="2022-11-30T20:19:01 IST" name="tearDown" finished-at="2022-11-30T20:19:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.SearchAndPlayVideoItemTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
